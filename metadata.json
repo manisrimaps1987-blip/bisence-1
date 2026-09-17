@@ -1,0 +1,6 @@
+{
+  "name": "BISENCE",
+  "description": "From Product Idea to the Right Indian Standard — With Evidence. Indian Standards discovery and compliance navigation engine for BIS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
